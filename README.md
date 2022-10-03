@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jorge-garcia-dev.herokuapp.com/](https://jorge-garcia-dev.herokuapp.com/)
 
-- 📫 How to reach me **contacto@jorgegarciadev.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jorgegarcia_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorgegarcia_dev" height="30" width="40" /></a>
