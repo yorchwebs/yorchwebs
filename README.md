@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **JorgeGarcia_Dev**
 
-- 🌱 I’m currently learning **Flask, Django, FastAPI**
+- 🌱 I’m currently learning **Flask**
 
 - 🤜🤛 looking for help with **Python Projects**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **Flask**
 
 - 👨‍💻 All of my projects are available at [https://jorge-garcia-dev.herokuapp.com/](https://jorge-garcia-dev.herokuapp.com/)
 
