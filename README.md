@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Jorge Garcia</h1>
-<h3 align="left">A Web Developer and Python lover from México</h3>
+<h3 align="left">A Web Developer and Python Lover from México</h3>
 
 <p align="left"> <a href="https://twitter.com/jorgegarcia_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jorgegarcia_dev?logo=twitter&style=for-the-badge" alt="jorgegarcia_dev" /></a> </p>
 
