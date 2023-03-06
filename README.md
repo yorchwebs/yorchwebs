@@ -1,5 +1,5 @@
 <h1 align="left">Hola 👋, Soy Jorge Garcia</h1>
-<h3 align="left">Soy un Desarrollador Web y Amante de Python en México</h3>
+<h3 align="left">Soy un Desarrollador Web y Amante del lenguaje de programación Python en México</h3>
 
 <p align="left"> <a href="https://twitter.com/jorgegarcia_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jorgegarcia_dev?logo=twitter&style=for-the-badge" alt="jorgegarcia_dev" /></a> </p>
 
