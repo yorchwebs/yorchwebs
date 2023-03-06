@@ -5,11 +5,11 @@
 
 - 🔭 Actualmente me encuentro estudiando y trabajando en proyectos personales
 
-- 🌱 Me encuentro aprendiendo sobre los Frameworks de Python **Django, Flask, FastAPI, ORMs, Docker**
+- 🌱 Me encuentro aprendiendo sobre los Frameworks de Python: **Django, Flask, FastAPI, ORMs, Docker**
 
-- 🤜🤛 Busco mostrar mi trabajo al mundo, esperando recibir retroalimentación **Proyectos BackEnd**
+- 🤜🤛 Busco mostrar mi trabajo al mundo, esperando recibir retroalimentación **(Proyectos BackEnd)**
 
-- 🤝 Busco también asesoría acerca de **SQLAlchemy**
+- 🤝 Busco también asesoría acerca de **Django, Flask, FastAPI, ORMs, Docker**
 
 - 👨‍💻 Próximamente estará disponible mi sitio personal así como mi blog...
 
