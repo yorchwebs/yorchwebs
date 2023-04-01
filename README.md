@@ -9,7 +9,7 @@
 
 - 🤜🤛 Busco mostrar mi trabajo al mundo, esperando recibir retroalimentación **(Proyectos BackEnd)**
 
-- 🤝 Busco también asesoría acerca de **Django, Flask, FastAPI, ORMs, Docker**
+- 🤝 Busco también asesoría acerca de **Django, Flask, FastAPI, ORMs**
 
 - 👨‍💻 Próximamente estará disponible mi sitio personal así como mi blog...
 
