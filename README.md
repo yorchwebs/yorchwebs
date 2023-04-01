@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente me encuentro estudiando y trabajando en proyectos personales
 
-- 🌱 Me encuentro aprendiendo sobre los Frameworks de Python: **Django, Flask, FastAPI, ORMs (Peewee, SQLAlchemy), Pruebas Unitarias (Docstring, Unittest)**
+- 🌱 Me encuentro aprendiendo sobre los Frameworks de Python: **Django, Flask, FastAPI, ORMs (Peewee, SQLAlchemy), Pruebas Unitarias (Unittest)**
 
 - 🤜🤛 Busco mostrar mi trabajo al mundo, esperando recibir retroalimentación **(Proyectos BackEnd)**
 
