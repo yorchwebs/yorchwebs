@@ -5,11 +5,11 @@
 
 - 🔭 Actualmente me encuentro estudiando y trabajando en proyectos personales
 
-- 🌱 Me encuentro aprendiendo sobre los Frameworks de Python: **Django, Flask, FastAPI, ORMs (Peewee, SQLAlchemy), Pruebas Unitarias (Unittest)**
+- 🌱 Me encuentro aprendiendo **Python**, **C#** y preparándome para certificarme en **Microsoft Azure**
 
 - 🤜🤛 Busco mostrar mi trabajo al mundo, esperando recibir retroalimentación **(Proyectos BackEnd)**
 
-- 🤝 Busco también asesoría acerca de **Django, Flask, FastAPI, ORMs**
+- 🤝 Busco también asesoría acerca de **Python, C#, Microsoft Azure**
 
 - 👨‍💻 Próximamente estará disponible mi sitio personal así como mi blog...
 
