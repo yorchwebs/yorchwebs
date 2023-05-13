@@ -1,7 +1,7 @@
 <h1 align="left">Hola, Soy Jorge Garcia !!</h1>
-<h3 align="left">Desarrollador Web BackEnd, de México para el Mundo :smiley: </h3>
+<h3 align="left">Desarrollador Web BackEnd, de México para el Mundo :world: </h3>
 
-- Me encuentro aprendiendo y desarrollando proyectos en **Python** y **C#**, preparándome para certificarme en **Microsoft Azure**
+- Me encuentro aprendiendo y desarrollando proyectos en **Python** :snake: y **C#**, preparándome para certificarme en **Microsoft Azure** :cloud:
 
 <h3 align="left">Contáctame en mis redes sociales:</h3>
 <p align="left">
