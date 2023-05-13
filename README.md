@@ -3,8 +3,6 @@
 
 - Me encuentro aprendiendo y desarrollando proyectos en **Python** y **C#**, preparándome para certificarme en **Microsoft Azure**
 
-<p align="left"> <a href="https://twitter.com/jorgegarcia_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jorgegarcia_dev?logo=twitter&style=for-the-badge" alt="jorgegarcia_dev" /></a> </p>
-
 <h3 align="left">Contáctame en mis redes sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/jorgegarcia_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorgegarcia_dev" height="30" width="40" /></a>
