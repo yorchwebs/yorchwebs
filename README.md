@@ -1,17 +1,9 @@
-<h1 align="left">Hola 👋, Soy Jorge Garcia</h1>
-<h3 align="left">Soy un Desarrollador Web BackEnd, amante del lenguaje de programación Python en México</h3>
+<h1 align="left">Hola !!, Soy Jorge Garcia</h1>
+<h3 align="left">Desarrollador Web BackEnd, de México para el Mundo</h3>
+
+- Me encuentro aprendiendo y desarrollando proyectos en **Python** y **C#**, preparándome para certificarme en **Microsoft Azure**
 
 <p align="left"> <a href="https://twitter.com/jorgegarcia_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jorgegarcia_dev?logo=twitter&style=for-the-badge" alt="jorgegarcia_dev" /></a> </p>
-
-- 🔭 Actualmente me encuentro estudiando y trabajando en proyectos personales
-
-- 🌱 Me encuentro aprendiendo **Python**, **C#** y preparándome para certificarme en **Microsoft Azure**
-
-- 🤜🤛 Busco mostrar mi trabajo al mundo, esperando recibir retroalimentación **(Proyectos BackEnd)**
-
-- 🤝 Busco también asesoría acerca de **Python, C#, Microsoft Azure**
-
-- 👨‍💻 Próximamente estará disponible mi sitio personal así como mi blog...
 
 <h3 align="left">Contáctame en mis redes sociales:</h3>
 <p align="left">
