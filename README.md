@@ -1,5 +1,5 @@
 <h1 align="left">Hola, Soy Jorge Garcia !!</h1>
-<h3 align="left">**Desarrollador Web BackEnd** & **Python Lover**, de México para el Mundo :earth_americas: </h3>
+<h3 align="left">Desarrollador Web BackEnd, de México para el Mundo :earth_americas: </h3>
 
 - Me encuentro aprendiendo y desarrollando proyectos en **Python** :snake: y sus Frameworks **Django** & **Flask**, Bases de Datos Relacionales **MySQL**, preparándome para certificarme en **Microsoft Azure** :cloud:
 
