@@ -1,7 +1,7 @@
 <h1 align="left">Hi !! I'm Jorge Garcia.</h1>
 <h3 align="left">BackEnd Web Developer, from México to the world :earth_americas: </h3>
 
-- I am learning and development projects in **Python** :snake: and its Framework **Flask**, **MySQL** Database, **HTML** & **CSS**
+- I am learning and development projects in **Python** :snake: and its Framework **Flask**, **MySQL** Database, **HTML** & **CSS**.
 
 <h3 align="left">Contact me in my social networks:</h3>
 <p align="left">
