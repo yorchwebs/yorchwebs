@@ -17,4 +17,4 @@
 
 My Stats:
 
-[![Jorge Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeGarcia-Dev)](https://github.com/JorgeGarcia-Dev/github-readme-stats)
+[![Jorge Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeGarcia-Dev&show_icons=true&theme=dark)](https://github.com/JorgeGarcia-Dev/github-readme-stats)
