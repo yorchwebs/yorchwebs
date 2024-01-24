@@ -18,4 +18,4 @@
 My Stats:
 
 [![Jorge Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeGarcia-Dev&show_icons=true&theme=dark)](https://github.com/JorgeGarcia-Dev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGarcia-Dev&show_icons=true&theme=dark&layout=compact)](https://github.com/JorgeGarcia-Dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGarcia-Dev&show_icons=true&theme=dark&layout=donut-vertical)](https://github.com/JorgeGarcia-Dev/github-readme-stats)
