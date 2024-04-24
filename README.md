@@ -1,7 +1,7 @@
 ![Banner JorgeGarcia_Dev](https://res.cloudinary.com/duckwaaai/image/upload/f_auto,q_auto/v1/JorgeGarcia_Dev/dtcpz4vpcmrihl4b7qbe)
 
 <h1 align="left">Hi !! I'm Jorge Garcia.</h1>
-<h3 align="left">BackEnd Developer, from México to the world :earth_americas: </h3>
+<h3 align="left">BackEnd Developer, from México to the World :earth_americas: </h3>
 
 - I am learning and development projects in **Python** :snake: and his Frameworks **Django** & **Flask**, Relational Databases **MySQL** :dolphin: & **PostgreSQL** :elephant:, **Microsoft - Azure Fundamentals (Certified)** :cloud:.
 
