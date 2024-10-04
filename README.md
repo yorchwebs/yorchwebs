@@ -5,7 +5,7 @@
 
 - Actually, I work with: **Python** :snake: and his Frameworks **Django** & **Flask**, Relational Databases **MySQL** :dolphin: & **PostgreSQL** :elephant:, **Microsoft Certified: Azure Fundamentals** :cloud:.
 
-- And I'm learning frontend technologies like: JavaScript 🟨 + React ⚛️ and CSS 🎨 + TailwindCSS.
+- And I'm learning **FrontEnd** technologies like: JavaScript 🟨 + TypeScript 🟦 + React ⚛️ , CSS 🎨 + TailwindCSS.
 
 <h3 align="left">Contact me in my social networks:</h3>
 <p align="left">
