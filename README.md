@@ -3,7 +3,9 @@
 <h1 align="left">Hi !! I'm Jorge Garcia.</h1>
 <h3 align="left">BackEnd Developer, from México to the World :earth_americas: </h3>
 
-- I am learning and development projects in **Python** :snake: and his Frameworks **Django** & **Flask**, Relational Databases **MySQL** :dolphin: & **PostgreSQL** :elephant:, **Microsoft Certified: Azure Fundamentals** :cloud:.
+- Actually, I work with: **Python** :snake: and his Frameworks **Django** & **Flask**, Relational Databases **MySQL** :dolphin: & **PostgreSQL** :elephant:, **Microsoft Certified: Azure Fundamentals** :cloud:.
+
+- And I'm learning frontend technologies like: JavaScript 🟨 + React ⚛️ and CSS 🎨 + TailwindCSS.
 
 <h3 align="left">Contact me in my social networks:</h3>
 <p align="left">
