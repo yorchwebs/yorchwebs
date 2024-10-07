@@ -1,7 +1,7 @@
 ![Banner YorchWebs](https://res.cloudinary.com/duckwaaai/image/upload/f_auto,q_auto/v1/YorchWebs/gjn9sv8tmehfdxnjiwsj)
 
 <h1 align="left">Hi !! I'm Jorge Garcia.</h1>
-<h3 align="left">BackEnd Developer, from México to the World :earth_americas: </h3>
+<h3 align="left">Web Developer, from México to the World :earth_americas: </h3>
 
 - Actually, I work with: **Python** :snake: and his Frameworks **Django** & **Flask**, Relational Databases **MySQL** :dolphin: & **PostgreSQL** :elephant:, **Microsoft Certified: Azure Fundamentals** :cloud:.
 
