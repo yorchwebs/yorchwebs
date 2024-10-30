@@ -3,7 +3,7 @@
 <h1 align="left">Hi !! I'm Jorge Garcia.</h1>
 <h3 align="left">BackEnd Developer, from México to the World :earth_americas: </h3>
 
-- Actually, I work with: **Python** :snake: and his Frameworks **Django** & **Flask**, Relational Databases **MySQL** :dolphin: & **PostgreSQL** :elephant:, **Microsoft Certified: Azure Fundamentals** :cloud:.
+- Actually, I work with: **Python** :snake: and his Frameworks **Django** & **Flask**, Relational Databases **MySQL** :dolphin:, **Microsoft Certified: Azure Fundamentals** :cloud:.
 
 <h3 align="left">Contact me in my social networks:</h3>
 <p align="left">
@@ -11,8 +11,6 @@
 <a href="https://twitter.com/yorchwebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yorchwebs" height="30" width="40" /></a>
 <a href="https://instagram.com/yorchwebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yorchwebs" height="30" width="40" /></a>
 <a href="https://dev.to/yorchwebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yorchwebs" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yorchwebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yorchwebs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yorchwebs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yorchwebs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Technologies:</h3>
