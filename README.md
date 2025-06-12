@@ -1,4 +1,4 @@
-![Banner YorchAnalytics](https://res.cloudinary.com/yorchwebs/image/upload/f_auto,q_auto/v1/yorchanalytics/Logos/utge26yznzivr52ufpcq)
+![Banner YorchAnalytics](https://res.cloudinary.com/yorchwebs/image/upload/f_auto,q_auto/v1/YorchWebs/gjn9sv8tmehfdxnjiwsj)
 
 <h1 align="left">Hi !! I'm Jorge Garcia.</h1>
 <h3 align="left">BackEnd Developer, from México to the World :earth_americas: </h3>
